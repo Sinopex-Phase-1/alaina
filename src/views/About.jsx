@@ -1,8 +1,8 @@
 import Header from "../components/header/Header";
 import Footer from "../components/footer/Footer";
 
-import "./about.css";
-import "./main.css";
+import "../assets/css/about.css";
+import "../assets/css/main.css";
 
 export default function About() {
   return (

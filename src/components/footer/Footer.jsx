@@ -1,5 +1,5 @@
 import LogoFooter from "../header/logo/LogoFooter";
-import Social from "../social/Social";
+import Social from "../social/Social.jsx";
 import React from "react";
 import NavActive from "../header/navbar/NavActive";
 import { Link } from "react-router-dom";

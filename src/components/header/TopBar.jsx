@@ -1,5 +1,5 @@
 import Logo from "./logo/Logo";
-import { Container } from "../../components/layouts/Layout";
+import { Container } from "../layouts/Layout";
 import { Link } from "react-router-dom";
 
 import Box from "@mui/material/Box";
